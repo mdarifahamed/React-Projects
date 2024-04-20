@@ -1,10 +1,11 @@
 import { useState } from "react";
 import "./App.css";
+import Chai from "./assets/chai";
 
 function App() {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      {/* <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
             TechStarve
@@ -49,7 +50,10 @@ function App() {
             </form>
           </div>
         </div>
-      </nav>
+      </nav> */}
+
+      <Chai/>
+      <h1>hrfjlkgjc</h1>
       
     </>
   );
