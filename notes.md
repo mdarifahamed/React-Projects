@@ -4,3 +4,4 @@ browser open:-  npm run dev
 
 
 
+props:- propertites

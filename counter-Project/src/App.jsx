@@ -12,6 +12,13 @@ function App() {
    // counter = counter + 1
     setCouter(counter + 1)
 
+    // setCouter(prevCounter => prevCounter +1)
+    // setCouter(prevCounter => prevCounter +1)
+    // setCouter(prevCounter => prevCounter +1)
+    // setCouter(prevCounter => prevCounter +1)
+
+
+
    
     
   }
